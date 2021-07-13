@@ -1,0 +1,25 @@
+{
+  "name": "react-native-rating-list",
+  "version": "1.0.0",
+  "description": "Add an awesome ready made horizontal rating list for your app without any hassle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirolHusni/react-native-rating-list.git"
+  },
+  "keywords": [
+    "rating-list"
+  ],
+  "author": "MirolHusni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirolHusni/react-native-rating-list/issues"
+  },
+  "homepage": "https://github.com/MirolHusni/react-native-rating-list#readme",
+  "dependencies": {
+    "react-native-stars": "^1.2.2"
+  }
+}
